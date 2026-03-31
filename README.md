@@ -1,4 +1,5 @@
 *Project Overview
+
 This project analyzes social media engagement data to uncover insights about user behavior, content performance, and engagement trends. It involves data cleaning, transformation, exploratory data analysis, statistical analysis, and visualization using Python.
 
 *Objectives
@@ -39,4 +40,5 @@ This project analyzes social media engagement data to uncover insights about use
 - Behavior of neutral and negative posts
 
 *Conclusion
+
 This project demonstrates how data analytics can be used to extract actionable insights from social media data, helping improve content strategy and user engagement.
