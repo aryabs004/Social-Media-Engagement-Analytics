@@ -25,17 +25,17 @@ This project analyzes social media engagement data to uncover insights about use
 - Data Visualization
 
 *Key Insights
-🔹 Content Performance
+*Content Performance
 - Identified top-performing post types
 - Determined best content categories
 - Analyzed country-wise engagement rates
-🔹 User Trends
+*User Trends
 - Impact of age on engagement
 - Comparison of verified vs non-verified users
-🔹 Behavioral Insights
+*Behavioral Insights
 - Best time to post for maximum impressions
 - Device type impact on watch time
-🔹 Sentiment Analysis
+*Sentiment Analysis
 - Best-performing sentiment type
 - Behavior of neutral and negative posts
 
